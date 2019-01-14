@@ -1,0 +1,24 @@
+{
+  "name": "travis_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jslint": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jslint app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trybulec/travis_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trybulec/travis_test/issues"
+  },
+  "homepage": "https://github.com/trybulec/travis_test#readme"
+}
